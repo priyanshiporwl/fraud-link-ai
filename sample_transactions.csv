@@ -1,0 +1,6 @@
+txn_id,timestamp,sender_account,receiver_account,sender_upi,receiver_upi,amount,channel
+TXN1001,2024-01-10 09:15:00,ACC-1001,ACC-2002,upi1001@okicici,upi2002@upi,12500,UPI
+TXN1002,2024-01-10 10:40:00,ACC-1001,ACC-3003,upi1001@okicici,upi3003@upi,25000,UPI
+TXN1003,2024-01-10 11:05:00,ACC-4004,ACC-1001,upi4004@okicici,upi1001@okicici,9800,Bank
+TXN1004,2024-01-10 11:50:00,ACC-1001,ACC-5005,upi1001@okicici,upi5005@upi,45000,UPI
+TXN1005,2024-01-10 12:10:00,ACC-6006,ACC-1001,upi6006@okicici,upi1001@okicici,18000,Bank

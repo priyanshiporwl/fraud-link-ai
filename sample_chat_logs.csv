@@ -1,0 +1,6 @@
+message_id,timestamp,sender,receiver,platform,content
+message_id,timestamp,sender,receiver,platform,content
+MSG001,2024-01-10 08:50:00,+919900000001,+919900000003,WhatsApp,"Please send the OTP now"
+MSG002,2024-01-10 09:10:00,+919900000003,+919900000001,WhatsApp,"Done, I shared the code."
+MSG003,2024-01-10 09:45:00,+919900000001,+919900000004,Telegram,"Need urgent transfer approval"
+MSG004,2024-01-10 10:15:00,+919900000005,+919900000001,WhatsApp,"Can you verify this payment?"
